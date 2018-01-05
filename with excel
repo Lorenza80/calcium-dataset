@@ -1,0 +1,6 @@
+##need tidyverse package
+## load readxl
+library(readxl)
+read_excel("calcium.xlsx")
+##add column with time span
+## use plot function to plot data
